@@ -14,20 +14,20 @@ import emailjs from "@emailjs/browser";
 const vehicles = [
     {
         name: "Bus Eksekutif",
-        image: "/public/bus.jpg",
+        image: "/bus.jpg",
         description:
             "Bus nyaman untuk perjalanan jauh dengan kapasitas 40 orang.",
         price: 2000000,
     },
     {
         name: "Mini Bus",
-        image: "/public/bus.jpg",
+        image: "/bus.jpg",
         description: "Mini bus ideal untuk kelompok kecil hingga 20 orang.",
         price: 1500000,
     },
     {
         name: "SUV Mewah",
-        image: "/public/bus.jpg",
+        image: "/bus.jpg",
         description: "SUV mewah untuk perjalanan keluarga atau bisnis.",
         price: 1000000,
     },
